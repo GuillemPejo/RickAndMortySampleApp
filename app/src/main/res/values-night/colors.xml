@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="splash_background">@android:color/black</color>
+    <color name="status_bar_color">#FFBB86FC</color>
+</resources>

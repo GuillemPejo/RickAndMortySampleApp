@@ -1,0 +1,9 @@
+# RickAndMorty Sample App
+
+**Rick and Morty Sample App**
+
+Sample app that consumes a Rick and Morty API to display a character list, character details, and character lookup. It has been built with principles of clean architecture, repository pattern and MVVM pattern, and applying SOLID principles.
+
+The MVP displays a list of characters, managed by Remote Mediator with Pager3 and local caching. All the user interface was done with Compose, and Koin has been used as a dependency injector. Some unit tests have also been done.
+
+As possible improvements for the future, some tests could be finished to be able to cover all the functionalities, and for the architecture part, could be extract both the database package and the network package in independent modules.

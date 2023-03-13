@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RickAndMortyApp</string>
+    <string name="origin">Native of</string>
+    <string name="location">Last know location</string>
+    <string name="number_of_episodes_which_appears">Number of episodes which appears</string>
+    <string name="search_bar_hint">Search some character</string>
+
+</resources>
